@@ -10,10 +10,10 @@
 
 ### Instalación Librerías
 * Ejecutamos Anaconda Prompt 
-* pip install pandas
-* pip install numpy
-* pip install matplotlib 
-* pip install seaborn 
-* pip install sklearn
+* `pip install pandas`
+* `pip install numpy`
+* `pip install matplotlib` 
+* `pip install seaborn `
+* `pip install scikit-learn`
 * Abrimos Jupyter Notebook y ejecutamos los documentos desarrollados (Caso de haber ejecutado el IDE previamente restart the kernel)
 
