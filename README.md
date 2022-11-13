@@ -9,9 +9,11 @@
 
 
 ### Instalación Librerías
-* conda install pandas -c conda-forge
-* conda install numpy -c conda-forge
-* conda install matplotlib -c conda-forge
-* conda install seaborn -c conda-forge
-* conda install sklearn -c conda-forge
-* `restart the kernel to use updated packages`
+* Ejecutamos Anaconda Prompt 
+* pip install pandas
+* pip install numpy
+* pip install matplotlib 
+* pip install seaborn 
+* pip install sklearn
+* Abrimos Jupyter Notebook y ejecutamos los documentos desarrollados (Caso de haber ejecutado el IDE previamente restart the kernel)
+
